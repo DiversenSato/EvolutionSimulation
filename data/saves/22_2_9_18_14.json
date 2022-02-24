@@ -1,0 +1,11012 @@
+{
+  "generation": 1402,
+  "stepsPerGen": 300,
+  "innerNeurons": 1,
+  "genesPerGenome": 2,
+  "creatures": [
+    {
+      "posX": 117,
+      "posY": 102,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 15,
+      "posY": 96,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 95,
+      "posY": 70,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 94,
+      "posY": 85,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 122,
+      "posY": 104,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 80,
+      "posY": 118,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 97,
+      "posY": 84,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 44,
+      "posY": 75,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 12,
+      "posY": 21,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 13,
+      "posY": 75,
+      "genes": [
+        137829637,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 88,
+      "posY": 10,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 78,
+      "posY": 102,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 80,
+      "posY": 7,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 79,
+      "posY": 10,
+      "genes": [
+        135732519,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 23,
+      "posY": 57,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 2,
+      "posY": 73,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 23,
+      "posY": 118,
+      "genes": [
+        473373957,
+        623016829
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 106,
+      "posY": 48,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 17,
+      "posY": 81,
+      "genes": [
+        135732485,
+        623016793
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 72,
+      "posY": 17,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 81,
+      "posY": 31,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 38,
+      "posY": 114,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 78,
+      "posY": 18,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 126,
+      "posY": 83,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 95,
+      "posY": 14,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 76,
+      "posY": 106,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 80,
+      "posY": 77,
+      "genes": [
+        410459397,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 70,
+      "posY": 33,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 65,
+      "posY": 27,
+      "genes": [
+        137829639,
+        623016953
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 11,
+      "posY": 28,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 20,
+      "posY": 60,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 62,
+      "posY": 98,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 110,
+      "posY": 105,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 103,
+      "posY": 118,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 13,
+      "posY": 34,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 11,
+      "posY": 62,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 108,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 119,
+      "posY": 49,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 85,
+      "posY": 90,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 98,
+      "posY": 1,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 85,
+      "posY": 89,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 92,
+      "posY": 107,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 65,
+      "posY": 91,
+      "genes": [
+        135732229,
+        623016831
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 55,
+      "posY": 30,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 118,
+      "posY": 91,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 67,
+      "posY": 1,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 74,
+      "posY": 93,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 12,
+      "posY": 41,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 92,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 61,
+      "posY": 59,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 29,
+      "posY": 34,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 13,
+      "posY": 26,
+      "genes": [
+        138354439,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 73,
+      "genes": [
+        135732485,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 120,
+      "genes": [
+        135732485,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 25,
+      "posY": 88,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 26,
+      "posY": 61,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 33,
+      "posY": 34,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 113,
+      "posY": 34,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 79,
+      "posY": 124,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 96,
+      "posY": 106,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 52,
+      "posY": 116,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 2,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 86,
+      "posY": 36,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 21,
+      "posY": 106,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 58,
+      "posY": 53,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 121,
+      "posY": 4,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 20,
+      "posY": 120,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 21,
+      "posY": 98,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 84,
+      "posY": 20,
+      "genes": [
+        135732485,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 81,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 44,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 62,
+      "posY": 39,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 127,
+      "posY": 42,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 106,
+      "posY": 122,
+      "genes": [
+        135732485,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 83,
+      "posY": 73,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 51,
+      "posY": 108,
+      "genes": [
+        137825543,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 85,
+      "posY": 17,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 39,
+      "posY": 125,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 12,
+      "posY": 31,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 34,
+      "genes": [
+        137830151,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 15,
+      "posY": 82,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 76,
+      "posY": 36,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 91,
+      "posY": 110,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 68,
+      "posY": 109,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 19,
+      "posY": 96,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 26,
+      "posY": 3,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 26,
+      "posY": 91,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 94,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 25,
+      "posY": 1,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 101,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 96,
+      "posY": 19,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 119,
+      "posY": 86,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 80,
+      "posY": 44,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 83,
+      "posY": 39,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 37,
+      "posY": 124,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 52,
+      "posY": 121,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 105,
+      "posY": 123,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 54,
+      "posY": 125,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 85,
+      "posY": 41,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 95,
+      "posY": 75,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 2,
+      "posY": 81,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 112,
+      "posY": 38,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 62,
+      "posY": 25,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 8,
+      "posY": 25,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 100,
+      "posY": 108,
+      "genes": [
+        135731495,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 17,
+      "posY": 80,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 25,
+      "posY": 28,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 48,
+      "posY": 35,
+      "genes": [
+        138354439,
+        623016829
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 38,
+      "posY": 90,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 25,
+      "posY": 21,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 108,
+      "posY": 67,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 7,
+      "posY": 108,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 90,
+      "posY": 36,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 81,
+      "posY": 6,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 7,
+      "posY": 15,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 31,
+      "posY": 2,
+      "genes": [
+        439819525,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 92,
+      "posY": 28,
+      "genes": [
+        406265093,
+        623016953
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 66,
+      "posY": 40,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 80,
+      "posY": 110,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 71,
+      "posY": 107,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 125,
+      "posY": 100,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 3,
+      "posY": 35,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 117,
+      "posY": 108,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 18,
+      "posY": 60,
+      "genes": [
+        439819525,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 62,
+      "posY": 80,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 121,
+      "posY": 28,
+      "genes": [
+        137830151,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 77,
+      "posY": 88,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 28,
+      "posY": 91,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 7,
+      "posY": 74,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 37,
+      "posY": 58,
+      "genes": [
+        138354439,
+        623016829
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 88,
+      "posY": 27,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 96,
+      "posY": 67,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 94,
+      "posY": 84,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 64,
+      "posY": 89,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 124,
+      "posY": 10,
+      "genes": [
+        145169671,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 126,
+      "posY": 24,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 19,
+      "posY": 25,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 64,
+      "posY": 20,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 15,
+      "posY": 122,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 57,
+      "posY": 121,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 90,
+      "posY": 20,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 2,
+      "posY": 21,
+      "genes": [
+        135732519,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 64,
+      "posY": 60,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 61,
+      "posY": 65,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 97,
+      "posY": 105,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 8,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 29,
+      "posY": 15,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 37,
+      "posY": 94,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 68,
+      "posY": 19,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 35,
+      "posY": 24,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 79,
+      "posY": 26,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 29,
+      "posY": 81,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 108,
+      "posY": 110,
+      "genes": [
+        135740677,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 104,
+      "posY": 35,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 64,
+      "posY": 8,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 77,
+      "genes": [
+        137870599,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 48,
+      "posY": 102,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 75,
+      "posY": 53,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 94,
+      "posY": 80,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 85,
+      "posY": 54,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 49,
+      "posY": 29,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 13,
+      "posY": 117,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 42,
+      "posY": 87,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 2,
+      "posY": 77,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 89,
+      "posY": 50,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 111,
+      "posY": 116,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 40,
+      "posY": 72,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 30,
+      "posY": 15,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 9,
+      "posY": 111,
+      "genes": [
+        135732485,
+        623016829
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 123,
+      "posY": 68,
+      "genes": [
+        146218247,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 41,
+      "posY": 104,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 49,
+      "posY": 22,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 64,
+      "posY": 104,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 99,
+      "posY": 93,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 48,
+      "posY": 60,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 108,
+      "posY": 86,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 35,
+      "genes": [
+        406265093,
+        623016831
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 81,
+      "posY": 16,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 66,
+      "posY": 82,
+      "genes": [
+        137830151,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 33,
+      "posY": 6,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 28,
+      "posY": 92,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 93,
+      "posY": 69,
+      "genes": [
+        137829639,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 2,
+      "posY": 5,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 92,
+      "posY": 47,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 99,
+      "posY": 21,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 105,
+      "posY": 51,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 101,
+      "posY": 22,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 125,
+      "genes": [
+        135732485,
+        623016831
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 100,
+      "posY": 72,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 108,
+      "posY": 90,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 106,
+      "posY": 12,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 38,
+      "posY": 107,
+      "genes": [
+        406265093,
+        623541113
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 7,
+      "posY": 99,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 69,
+      "posY": 107,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 49,
+      "posY": 105,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 27,
+      "posY": 97,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 38,
+      "posY": 48,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 40,
+      "posY": 105,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 12,
+      "posY": 57,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 18,
+      "posY": 24,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 6,
+      "posY": 111,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 118,
+      "posY": 101,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 69,
+      "posY": 48,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 97,
+      "posY": 115,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 21,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 1,
+      "posY": 124,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 82,
+      "posY": 19,
+      "genes": [
+        146218247,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 119,
+      "posY": 56,
+      "genes": [
+        146218247,
+        623016831
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 62,
+      "posY": 104,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 45,
+      "posY": 1,
+      "genes": [
+        406265093,
+        623016831
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 113,
+      "posY": 73,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 48,
+      "posY": 40,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 118,
+      "posY": 17,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 73,
+      "posY": 11,
+      "genes": [
+        473373957,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 93,
+      "posY": 49,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 110,
+      "posY": 98,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 75,
+      "posY": 106,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 42,
+      "posY": 31,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 53,
+      "posY": 80,
+      "genes": [
+        135732485,
+        627211065
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 66,
+      "posY": 118,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 113,
+      "posY": 122,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 114,
+      "posY": 9,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 11,
+      "posY": 7,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 82,
+      "posY": 8,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 88,
+      "posY": 47,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 57,
+      "posY": 10,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 85,
+      "posY": 99,
+      "genes": [
+        137829767,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 112,
+      "posY": 67,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 72,
+      "posY": 89,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 98,
+      "posY": 13,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 98,
+      "posY": 70,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 47,
+      "posY": 40,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 86,
+      "posY": 57,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 13,
+      "posY": 30,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 18,
+      "posY": 110,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 21,
+      "posY": 31,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 122,
+      "posY": 52,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 72,
+      "posY": 28,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 126,
+      "posY": 88,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 69,
+      "posY": 124,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 36,
+      "posY": 126,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 91,
+      "posY": 79,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 58,
+      "posY": 123,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 11,
+      "posY": 58,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 34,
+      "posY": 51,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 110,
+      "posY": 110,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 50,
+      "posY": 33,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 79,
+      "posY": 105,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 93,
+      "posY": 117,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 40,
+      "posY": 125,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 2,
+      "posY": 54,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 36,
+      "posY": 6,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 13,
+      "posY": 41,
+      "genes": [
+        406265093,
+        627735417
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 36,
+      "posY": 60,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 54,
+      "genes": [
+        138354439,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 59,
+      "posY": 84,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 73,
+      "posY": 98,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 125,
+      "posY": 58,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 109,
+      "posY": 125,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 78,
+      "posY": 108,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 62,
+      "posY": 41,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 77,
+      "posY": 92,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 69,
+      "posY": 9,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 38,
+      "posY": 68,
+      "genes": [
+        439819525,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 62,
+      "posY": 70,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 32,
+      "posY": 46,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 15,
+      "posY": 78,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 43,
+      "posY": 91,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 64,
+      "posY": 85,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 30,
+      "posY": 59,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 37,
+      "posY": 120,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 5,
+      "posY": 45,
+      "genes": [
+        410459397,
+        623017849
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 124,
+      "posY": 79,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 41,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 71,
+      "posY": 8,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 95,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 4,
+      "posY": 59,
+      "genes": [
+        137830151,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 92,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 113,
+      "posY": 86,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 81,
+      "posY": 102,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 21,
+      "posY": 2,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 63,
+      "posY": 22,
+      "genes": [
+        135732519,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 38,
+      "posY": 3,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 44,
+      "posY": 110,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 74,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 26,
+      "posY": 11,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 75,
+      "posY": 100,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 29,
+      "posY": 76,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 33,
+      "posY": 57,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 77,
+      "posY": 122,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 57,
+      "posY": 9,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 124,
+      "posY": 107,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 71,
+      "posY": 88,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 80,
+      "posY": 97,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 124,
+      "posY": 89,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 110,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 26,
+      "posY": 92,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 30,
+      "posY": 36,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 58,
+      "posY": 22,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 72,
+      "posY": 61,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 83,
+      "posY": 119,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 67,
+      "posY": 55,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 43,
+      "posY": 36,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 14,
+      "posY": 19,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 46,
+      "posY": 78,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 93,
+      "posY": 67,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 76,
+      "posY": 42,
+      "genes": [
+        672603397,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 43,
+      "posY": 78,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 17,
+      "posY": 10,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 51,
+      "posY": 84,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 94,
+      "posY": 48,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 12,
+      "posY": 81,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 55,
+      "posY": 91,
+      "genes": [
+        406265093,
+        623541081
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 112,
+      "posY": 46,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 123,
+      "posY": 56,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 125,
+      "posY": 64,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 62,
+      "posY": 20,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 7,
+      "posY": 75,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 86,
+      "posY": 97,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 11,
+      "posY": 19,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 117,
+      "posY": 10,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 123,
+      "posY": 42,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 91,
+      "posY": 116,
+      "genes": [
+        406265093,
+        623016831
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 113,
+      "posY": 96,
+      "genes": [
+        138354439,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 88,
+      "posY": 103,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 59,
+      "posY": 15,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 57,
+      "posY": 86,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 60,
+      "posY": 79,
+      "genes": [
+        473373957,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 19,
+      "posY": 94,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 1,
+      "posY": 104,
+      "genes": [
+        138354439,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 63,
+      "posY": 30,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 1,
+      "posY": 69,
+      "genes": [
+        135732485,
+        623016829
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 1,
+      "posY": 125,
+      "genes": [
+        406265093,
+        627735417
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 7,
+      "posY": 50,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 69,
+      "posY": 29,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 76,
+      "posY": 29,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 115,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 102,
+      "posY": 77,
+      "genes": [
+        439819525,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 68,
+      "posY": 8,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 60,
+      "posY": 6,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 61,
+      "posY": 8,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 106,
+      "posY": 121,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 12,
+      "posY": 34,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 40,
+      "posY": 60,
+      "genes": [
+        135740677,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 63,
+      "posY": 16,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 15,
+      "posY": 83,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 19,
+      "posY": 121,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 19,
+      "posY": 4,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 2,
+      "posY": 76,
+      "genes": [
+        145169671,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 85,
+      "posY": 74,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 87,
+      "posY": 82,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 127,
+      "posY": 71,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 77,
+      "posY": 41,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 23,
+      "posY": 108,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 40,
+      "posY": 18,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 111,
+      "posY": 84,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 13,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 45,
+      "posY": 105,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 47,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 112,
+      "posY": 27,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 61,
+      "posY": 35,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 7,
+      "posY": 53,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 15,
+      "posY": 74,
+      "genes": [
+        406265093,
+        623016793
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 74,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 108,
+      "posY": 115,
+      "genes": [
+        137829639,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 114,
+      "posY": 69,
+      "genes": [
+        135740677,
+        623016831
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 75,
+      "posY": 74,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 32,
+      "posY": 73,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 105,
+      "genes": [
+        146218247,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 126,
+      "posY": 80,
+      "genes": [
+        406265093,
+        624065401
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 73,
+      "posY": 23,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 35,
+      "posY": 4,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 86,
+      "posY": 86,
+      "genes": [
+        135732485,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 13,
+      "posY": 55,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 3,
+      "posY": 95,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 8,
+      "posY": 92,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 94,
+      "posY": 103,
+      "genes": [
+        135732519,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 96,
+      "posY": 126,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 109,
+      "posY": 39,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 84,
+      "genes": [
+        142023943,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 104,
+      "posY": 69,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 54,
+      "posY": 123,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 48,
+      "posY": 22,
+      "genes": [
+        135732485,
+        623016953
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 43,
+      "posY": 40,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 94,
+      "posY": 90,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 118,
+      "posY": 117,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 119,
+      "posY": 55,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 119,
+      "posY": 52,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 121,
+      "posY": 61,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 55,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": -1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 66,
+      "posY": 74,
+      "genes": [
+        137830151,
+        627735417
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 96,
+      "posY": 3,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 119,
+      "posY": 16,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 96,
+      "posY": 113,
+      "genes": [
+        137830151,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 30,
+      "posY": 82,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 63,
+      "posY": 115,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 86,
+      "posY": 74,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 92,
+      "posY": 85,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 6,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 10,
+      "posY": 78,
+      "genes": [
+        137829639,
+        623016829
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 28,
+      "posY": 9,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 45,
+      "posY": 33,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 127,
+      "posY": 96,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 1,
+      "posY": 15,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 71,
+      "posY": 91,
+      "genes": [
+        138354439,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 80,
+      "posY": 38,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 98,
+      "posY": 28,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 73,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 7,
+      "posY": 88,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 124,
+      "posY": 29,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 57,
+      "posY": 19,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 68,
+      "posY": 54,
+      "genes": [
+        672603397,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 67,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 33,
+      "posY": 82,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 102,
+      "posY": 118,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 30,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 114,
+      "posY": 105,
+      "genes": [
+        138354439,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 99,
+      "posY": 81,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 76,
+      "posY": 26,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 114,
+      "posY": 47,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 82,
+      "posY": 61,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 31,
+      "posY": 16,
+      "genes": [
+        138354439,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 91,
+      "posY": 55,
+      "genes": [
+        137830151,
+        623016829
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 108,
+      "posY": 15,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 11,
+      "posY": 64,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 80,
+      "posY": 55,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 61,
+      "posY": 78,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 104,
+      "posY": 106,
+      "genes": [
+        138354439,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 93,
+      "posY": 51,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 33,
+      "posY": 103,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 12,
+      "posY": 101,
+      "genes": [
+        137830151,
+        623017849
+      ],
+      "forwardY": 1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 70,
+      "posY": 45,
+      "genes": [
+        672603397,
+        627211065
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 66,
+      "posY": 8,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 61,
+      "posY": 49,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 57,
+      "posY": 87,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 65,
+      "posY": 41,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 69,
+      "posY": 49,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 87,
+      "posY": 3,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 76,
+      "posY": 118,
+      "genes": [
+        146218247,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 86,
+      "posY": 19,
+      "genes": [
+        137829637,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 19,
+      "posY": 73,
+      "genes": [
+        406265093,
+        627735417
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 110,
+      "posY": 30,
+      "genes": [
+        137829639,
+        623016831
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 86,
+      "posY": 111,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 61,
+      "posY": 124,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 119,
+      "posY": 55,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 92,
+      "posY": 33,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 55,
+      "posY": 43,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 59,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 51,
+      "posY": 4,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 28,
+      "posY": 48,
+      "genes": [
+        138354439,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 108,
+      "posY": 2,
+      "genes": [
+        406265093,
+        623016793
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 11,
+      "posY": 76,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 53,
+      "posY": 92,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 126,
+      "posY": 8,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 109,
+      "posY": 52,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 14,
+      "posY": 58,
+      "genes": [
+        135732485,
+        623017851
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 104,
+      "posY": 46,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 13,
+      "posY": 123,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 50,
+      "posY": 53,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 110,
+      "posY": 107,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 96,
+      "posY": 114,
+      "genes": [
+        137830151,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 69,
+      "posY": 19,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 88,
+      "posY": 124,
+      "genes": [
+        137825543,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 105,
+      "posY": 114,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 28,
+      "posY": 82,
+      "genes": [
+        406265093,
+        627735417
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 116,
+      "posY": 85,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 17,
+      "posY": 126,
+      "genes": [
+        138354439,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 78,
+      "posY": 98,
+      "genes": [
+        137830151,
+        622885753
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 87,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 20,
+      "posY": 67,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 65,
+      "posY": 32,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 104,
+      "posY": 115,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 5,
+      "posY": 14,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 73,
+      "posY": 13,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 39,
+      "posY": 96,
+      "genes": [
+        406265093,
+        627243897
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 126,
+      "posY": 45,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 5,
+      "posY": 57,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 64,
+      "posY": 73,
+      "genes": [
+        137829767,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 53,
+      "posY": 47,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 90,
+      "posY": 69,
+      "genes": [
+        138354439,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 82,
+      "posY": 92,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 94,
+      "posY": 33,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 7,
+      "posY": 54,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 108,
+      "posY": 101,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 82,
+      "posY": 105,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 64,
+      "posY": 87,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 44,
+      "posY": 85,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 73,
+      "posY": 40,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 74,
+      "posY": 88,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 73,
+      "posY": 43,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 17,
+      "posY": 116,
+      "genes": [
+        138354439,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 72,
+      "posY": 68,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 29,
+      "posY": 66,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 58,
+      "posY": 124,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 24,
+      "posY": 79,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 109,
+      "posY": 119,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 54,
+      "posY": 53,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 105,
+      "posY": 102,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 75,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 118,
+      "posY": 66,
+      "genes": [
+        406265093,
+        623017851
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 33,
+      "posY": 90,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 122,
+      "posY": 99,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 23,
+      "posY": 30,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 112,
+      "posY": 94,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 114,
+      "posY": 119,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 114,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 72,
+      "posY": 4,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 121,
+      "posY": 126,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 80,
+      "posY": 33,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 32,
+      "posY": 19,
+      "genes": [
+        135732485,
+        623016831
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 98,
+      "posY": 7,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 95,
+      "posY": 93,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 52,
+      "posY": 12,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 118,
+      "posY": 106,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 97,
+      "posY": 5,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 94,
+      "posY": 15,
+      "genes": [
+        146218247,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 65,
+      "posY": 3,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 45,
+      "posY": 18,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 122,
+      "posY": 87,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 113,
+      "posY": 30,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 55,
+      "posY": 90,
+      "genes": [
+        135732485,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 92,
+      "posY": 34,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 107,
+      "posY": 52,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 30,
+      "posY": 108,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 62,
+      "posY": 34,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 103,
+      "posY": 64,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 71,
+      "posY": 22,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 108,
+      "posY": 77,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 77,
+      "posY": 103,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 8,
+      "posY": 52,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 67,
+      "posY": 117,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 85,
+      "posY": 95,
+      "genes": [
+        137870599,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 75,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 126,
+      "posY": 71,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 91,
+      "posY": 66,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 101,
+      "posY": 86,
+      "genes": [
+        135732485,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 118,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 4,
+      "posY": 83,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 25,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 67,
+      "posY": 103,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 26,
+      "posY": 85,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 49,
+      "posY": 28,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 111,
+      "posY": 35,
+      "genes": [
+        137825543,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 82,
+      "posY": 119,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 74,
+      "posY": 59,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 60,
+      "posY": 22,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 66,
+      "posY": 107,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 54,
+      "posY": 89,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 68,
+      "posY": 94,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 114,
+      "posY": 36,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 14,
+      "posY": 36,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 23,
+      "posY": 120,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 125,
+      "posY": 33,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 83,
+      "posY": 0,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 91,
+      "posY": 85,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 84,
+      "posY": 43,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 26,
+      "posY": 26,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 62,
+      "posY": 5,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 97,
+      "posY": 50,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 68,
+      "posY": 110,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 47,
+      "posY": 94,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 4,
+      "posY": 63,
+      "genes": [
+        135732485,
+        623016793
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 83,
+      "posY": 68,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 52,
+      "posY": 15,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 106,
+      "posY": 63,
+      "genes": [
+        406265093,
+        623016831
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 13,
+      "posY": 83,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 109,
+      "posY": 38,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 60,
+      "posY": 29,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 97,
+      "posY": 86,
+      "genes": [
+        137829639,
+        623016831
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 49,
+      "posY": 64,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 77,
+      "posY": 44,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 33,
+      "posY": 67,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 64,
+      "posY": 4,
+      "genes": [
+        137830151,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 95,
+      "posY": 59,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 66,
+      "posY": 12,
+      "genes": [
+        406265093,
+        623016829
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 92,
+      "posY": 113,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 74,
+      "posY": 114,
+      "genes": [
+        135732485,
+        623017851
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 36,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 108,
+      "posY": 34,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 6,
+      "posY": 4,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 34,
+      "posY": 63,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 114,
+      "posY": 113,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 12,
+      "posY": 110,
+      "genes": [
+        439819525,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 1,
+      "posY": 61,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 2,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 68,
+      "posY": 26,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 8,
+      "posY": 55,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 40,
+      "posY": 67,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 105,
+      "posY": 97,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 73,
+      "posY": 14,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 96,
+      "posY": 43,
+      "genes": [
+        439819525,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 74,
+      "posY": 69,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 69,
+      "posY": 79,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 81,
+      "posY": 52,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 45,
+      "posY": 24,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 25,
+      "posY": 52,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 11,
+      "posY": 126,
+      "genes": [
+        138354439,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 63,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 51,
+      "posY": 55,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 37,
+      "posY": 15,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 59,
+      "posY": 79,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": -1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 9,
+      "posY": 72,
+      "genes": [
+        145169671,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 38,
+      "posY": 88,
+      "genes": [
+        146218247,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 119,
+      "posY": 36,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 5,
+      "posY": 66,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 34,
+      "posY": 50,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 104,
+      "posY": 70,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 109,
+      "posY": 91,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 78,
+      "posY": 84,
+      "genes": [
+        135732519,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 31,
+      "posY": 106,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 24,
+      "posY": 60,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 124,
+      "posY": 30,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 30,
+      "posY": 77,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 9,
+      "posY": 98,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 21,
+      "posY": 123,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 24,
+      "posY": 100,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 101,
+      "posY": 2,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 104,
+      "posY": 94,
+      "genes": [
+        137829639,
+        627735417
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 107,
+      "posY": 34,
+      "genes": [
+        135732485,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 106,
+      "posY": 83,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 112,
+      "posY": 86,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 1,
+      "posY": 77,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 101,
+      "posY": 103,
+      "genes": [
+        137870599,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 25,
+      "posY": 99,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 12,
+      "posY": 100,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 31,
+      "posY": 61,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 88,
+      "posY": 38,
+      "genes": [
+        406265093,
+        623016829
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 46,
+      "posY": 31,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 110,
+      "posY": 47,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 8,
+      "posY": 32,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 92,
+      "posY": 67,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 8,
+      "posY": 109,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 41,
+      "posY": 52,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 45,
+      "posY": 15,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 42,
+      "posY": 30,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 18,
+      "posY": 9,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 70,
+      "posY": 22,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 16,
+      "posY": 75,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 26,
+      "posY": 54,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 3,
+      "posY": 84,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 33,
+      "posY": 78,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 95,
+      "posY": 66,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 97,
+      "posY": 61,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 98,
+      "posY": 79,
+      "genes": [
+        135732485,
+        623016831
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 16,
+      "posY": 89,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 5,
+      "posY": 102,
+      "genes": [
+        672603397,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 38,
+      "posY": 49,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 116,
+      "posY": 80,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 119,
+      "posY": 28,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 110,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 27,
+      "posY": 48,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 88,
+      "posY": 60,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 32,
+      "posY": 83,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 14,
+      "posY": 4,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 20,
+      "posY": 54,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 64,
+      "posY": 103,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 48,
+      "posY": 23,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 41,
+      "posY": 21,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 73,
+      "posY": 53,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 43,
+      "posY": 60,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 125,
+      "posY": 79,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 98,
+      "posY": 122,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 4,
+      "posY": 77,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 25,
+      "posY": 75,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 122,
+      "posY": 45,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 28,
+      "posY": 81,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 58,
+      "posY": 119,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 62,
+      "posY": 62,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 105,
+      "posY": 39,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 116,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 108,
+      "posY": 113,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 18,
+      "posY": 69,
+      "genes": [
+        135732485,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 58,
+      "posY": 95,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 17,
+      "posY": 61,
+      "genes": [
+        146218247,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 2,
+      "posY": 5,
+      "genes": [
+        406265093,
+        623016831
+      ],
+      "forwardY": -1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 91,
+      "posY": 62,
+      "genes": [
+        138354439,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 16,
+      "posY": 113,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 87,
+      "posY": 8,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 78,
+      "posY": 60,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 73,
+      "posY": 77,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 82,
+      "posY": 23,
+      "genes": [
+        473373957,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 8,
+      "posY": 85,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 104,
+      "posY": 82,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 127,
+      "posY": 43,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 13,
+      "posY": 88,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 9,
+      "posY": 93,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 105,
+      "posY": 124,
+      "genes": [
+        135732485,
+        623016953
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 34,
+      "posY": 47,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 95,
+      "posY": 32,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 121,
+      "posY": 77,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 29,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 110,
+      "posY": 79,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 49,
+      "posY": 1,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 91,
+      "genes": [
+        406265093,
+        627735417
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 63,
+      "posY": 73,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 25,
+      "posY": 92,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 0,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 83,
+      "posY": 104,
+      "genes": [
+        135732519,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 62,
+      "posY": 4,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 21,
+      "posY": 67,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 7,
+      "posY": 22,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 30,
+      "posY": 2,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 90,
+      "posY": 104,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 28,
+      "posY": 4,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 66,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 113,
+      "posY": 68,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 17,
+      "posY": 75,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 107,
+      "posY": 21,
+      "genes": [
+        135732613,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 34,
+      "posY": 125,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 96,
+      "posY": 84,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 90,
+      "posY": 82,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 49,
+      "posY": 58,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 9,
+      "posY": 85,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 58,
+      "posY": 110,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 48,
+      "posY": 73,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 39,
+      "posY": 60,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 50,
+      "posY": 28,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 26,
+      "posY": 45,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 24,
+      "posY": 21,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 31,
+      "posY": 53,
+      "genes": [
+        406265093,
+        627735417
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 14,
+      "posY": 86,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 64,
+      "posY": 46,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 23,
+      "posY": 89,
+      "genes": [
+        473373957,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 43,
+      "posY": 123,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 112,
+      "posY": 122,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 79,
+      "posY": 55,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 63,
+      "posY": 40,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 46,
+      "posY": 94,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 83,
+      "posY": 102,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 21,
+      "posY": 110,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 57,
+      "posY": 114,
+      "genes": [
+        439819525,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 77,
+      "posY": 20,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 30,
+      "posY": 79,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 88,
+      "posY": 59,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 41,
+      "posY": 66,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 46,
+      "posY": 69,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 33,
+      "posY": 113,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 8,
+      "posY": 112,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 104,
+      "posY": 111,
+      "genes": [
+        410459397,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 57,
+      "posY": 29,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 71,
+      "posY": 72,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 28,
+      "posY": 15,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 107,
+      "posY": 23,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 114,
+      "genes": [
+        137829639,
+        623016817
+      ],
+      "forwardY": 1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 61,
+      "posY": 62,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 29,
+      "posY": 31,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 77,
+      "posY": 10,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 89,
+      "posY": 20,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 115,
+      "posY": 53,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 40,
+      "posY": 93,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 114,
+      "posY": 65,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 55,
+      "posY": 119,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 104,
+      "posY": 75,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 19,
+      "posY": 103,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 102,
+      "posY": 45,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 38,
+      "posY": 27,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 116,
+      "posY": 77,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 13,
+      "posY": 39,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 101,
+      "posY": 14,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 49,
+      "posY": 120,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 70,
+      "posY": 123,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 49,
+      "posY": 31,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 39,
+      "posY": 109,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 38,
+      "posY": 29,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 77,
+      "posY": 87,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 49,
+      "posY": 53,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 108,
+      "posY": 56,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 1,
+      "posY": 41,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 65,
+      "posY": 74,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 46,
+      "posY": 104,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 11,
+      "posY": 108,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 101,
+      "posY": 121,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 123,
+      "posY": 2,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 21,
+      "posY": 91,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 26,
+      "posY": 63,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 23,
+      "posY": 60,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 96,
+      "posY": 52,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 122,
+      "posY": 61,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 51,
+      "posY": 116,
+      "genes": [
+        135732485,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 36,
+      "posY": 15,
+      "genes": [
+        406265093,
+        623541081
+      ],
+      "forwardY": -1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 74,
+      "posY": 53,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 84,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 49,
+      "posY": 27,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 89,
+      "posY": 119,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 121,
+      "posY": 30,
+      "genes": [
+        135732485,
+        623016831
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 82,
+      "posY": 102,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 18,
+      "posY": 48,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 65,
+      "posY": 109,
+      "genes": [
+        137830151,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 51,
+      "posY": 18,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 72,
+      "posY": 64,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 96,
+      "posY": 115,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 52,
+      "posY": 101,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 7,
+      "posY": 35,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 10,
+      "posY": 38,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 95,
+      "posY": 36,
+      "genes": [
+        473373957,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 105,
+      "posY": 74,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 4,
+      "posY": 84,
+      "genes": [
+        138354439,
+        623016793
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 58,
+      "posY": 28,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 41,
+      "posY": 122,
+      "genes": [
+        439819525,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 98,
+      "posY": 29,
+      "genes": [
+        406265093,
+        627735417
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 3,
+      "posY": 28,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 57,
+      "posY": 120,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 76,
+      "posY": 12,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 82,
+      "posY": 95,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 26,
+      "posY": 60,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 68,
+      "posY": 20,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 117,
+      "posY": 79,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 97,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 101,
+      "posY": 85,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 41,
+      "posY": 31,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 58,
+      "posY": 55,
+      "genes": [
+        135740677,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 48,
+      "posY": 64,
+      "genes": [
+        137829639,
+        627735417
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 28,
+      "posY": 32,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 109,
+      "posY": 27,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 3,
+      "posY": 94,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 111,
+      "posY": 14,
+      "genes": [
+        145169671,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 45,
+      "posY": 91,
+      "genes": [
+        146218247,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 53,
+      "posY": 73,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 76,
+      "posY": 119,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 106,
+      "posY": 78,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 37,
+      "posY": 81,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 83,
+      "posY": 72,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 29,
+      "posY": 36,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 40,
+      "posY": 90,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 68,
+      "posY": 84,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 5,
+      "posY": 82,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 68,
+      "posY": 34,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 14,
+      "posY": 114,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 65,
+      "posY": 13,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 35,
+      "posY": 76,
+      "genes": [
+        406265093,
+        623016793
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 116,
+      "posY": 115,
+      "genes": [
+        135732519,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 49,
+      "posY": 9,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 100,
+      "posY": 82,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 28,
+      "posY": 28,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 80,
+      "posY": 4,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 40,
+      "posY": 59,
+      "genes": [
+        137830151,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 6,
+      "posY": 20,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 1,
+      "posY": 24,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 77,
+      "posY": 123,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 112,
+      "posY": 19,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 87,
+      "posY": 105,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 10,
+      "posY": 96,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 113,
+      "posY": 62,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 0,
+      "posY": 81,
+      "genes": [
+        135732519,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 74,
+      "posY": 70,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 16,
+      "posY": 29,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 25,
+      "posY": 59,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 102,
+      "posY": 115,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 37,
+      "posY": 73,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 121,
+      "posY": 44,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 81,
+      "posY": 123,
+      "genes": [
+        146218247,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 121,
+      "posY": 114,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 11,
+      "posY": 6,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 9,
+      "posY": 112,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 101,
+      "posY": 110,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 74,
+      "posY": 23,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 29,
+      "posY": 3,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 30,
+      "posY": 111,
+      "genes": [
+        137830151,
+        627735417
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 34,
+      "posY": 106,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 53,
+      "posY": 75,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 112,
+      "posY": 87,
+      "genes": [
+        137830151,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 92,
+      "posY": 20,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 36,
+      "posY": 124,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 37,
+      "posY": 3,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 81,
+      "posY": 111,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 3,
+      "posY": 110,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 50,
+      "posY": 69,
+      "genes": [
+        135732485,
+        623016829
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 25,
+      "posY": 55,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 87,
+      "posY": 120,
+      "genes": [
+        138354439,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 120,
+      "posY": 21,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 91,
+      "posY": 61,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 21,
+      "posY": 102,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 98,
+      "posY": 90,
+      "genes": [
+        137829639,
+        623541113
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 94,
+      "posY": 72,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 21,
+      "posY": 99,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 107,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 50,
+      "posY": 115,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 117,
+      "posY": 39,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 31,
+      "posY": 56,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 90,
+      "posY": 32,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 78,
+      "posY": 20,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 51,
+      "posY": 70,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 33,
+      "posY": 20,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 77,
+      "posY": 66,
+      "genes": [
+        138354439,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 25,
+      "posY": 94,
+      "genes": [
+        135732485,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 14,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 8,
+      "posY": 84,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 90,
+      "posY": 9,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 78,
+      "posY": 106,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 11,
+      "posY": 115,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 78,
+      "posY": 27,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 2,
+      "posY": 25,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 43,
+      "posY": 93,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 117,
+      "posY": 82,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 23,
+      "posY": 13,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 21,
+      "posY": 62,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 124,
+      "posY": 92,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 13,
+      "posY": 9,
+      "genes": [
+        137830151,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 32,
+      "posY": 68,
+      "genes": [
+        672603397,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 45,
+      "posY": 28,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 113,
+      "posY": 33,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 70,
+      "posY": 118,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 94,
+      "posY": 45,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 32,
+      "posY": 24,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 24,
+      "posY": 37,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 48,
+      "posY": 43,
+      "genes": [
+        146218247,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 18,
+      "posY": 88,
+      "genes": [
+        135732485,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 122,
+      "posY": 60,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 1,
+      "posY": 102,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 75,
+      "posY": 69,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 27,
+      "posY": 123,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 39,
+      "posY": 87,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 1,
+      "posY": 111,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 122,
+      "posY": 127,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 109,
+      "posY": 65,
+      "genes": [
+        473373957,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 74,
+      "posY": 126,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 36,
+      "posY": 9,
+      "genes": [
+        138354439,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 39,
+      "posY": 104,
+      "genes": [
+        406265093,
+        623016793
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 34,
+      "genes": [
+        439819525,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 64,
+      "posY": 61,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 85,
+      "posY": 42,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 37,
+      "posY": 35,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 69,
+      "posY": 40,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 51,
+      "posY": 34,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 89,
+      "posY": 41,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 114,
+      "posY": 39,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 46,
+      "posY": 86,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 107,
+      "posY": 20,
+      "genes": [
+        137830151,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 126,
+      "posY": 26,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 116,
+      "posY": 119,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 56,
+      "posY": 0,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 9,
+      "posY": 2,
+      "genes": [
+        406265093,
+        627735417
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 121,
+      "posY": 54,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 94,
+      "posY": 100,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 3,
+      "posY": 127,
+      "genes": [
+        137830151,
+        622885753
+      ],
+      "forwardY": 1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 71,
+      "posY": 119,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 122,
+      "posY": 71,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 32,
+      "posY": 102,
+      "genes": [
+        406265093,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 84,
+      "posY": 25,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 36,
+      "posY": 15,
+      "genes": [
+        137830151,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 116,
+      "posY": 60,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 34,
+      "posY": 55,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 64,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 57,
+      "posY": 92,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 124,
+      "posY": 6,
+      "genes": [
+        137829767,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 125,
+      "posY": 55,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 28,
+      "posY": 80,
+      "genes": [
+        138354439,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 0,
+      "posY": 113,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 19,
+      "posY": 44,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 29,
+      "posY": 100,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 28,
+      "posY": 41,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 84,
+      "posY": 89,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 24,
+      "posY": 20,
+      "genes": [
+        135732485,
+        623016793
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 3,
+      "posY": 80,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 16,
+      "posY": 45,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 105,
+      "posY": 48,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 48,
+      "posY": 9,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 67,
+      "posY": 11,
+      "genes": [
+        138354439,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 69,
+      "posY": 59,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 99,
+      "posY": 123,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 11,
+      "posY": 31,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 68,
+      "posY": 17,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 38,
+      "posY": 17,
+      "genes": [
+        137829639,
+        623016953
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 83,
+      "posY": 56,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 87,
+      "posY": 74,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 27,
+      "posY": 56,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 127,
+      "posY": 55,
+      "genes": [
+        406265093,
+        623017851
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 39,
+      "posY": 72,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 42,
+      "posY": 85,
+      "genes": [
+        137829639,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 10,
+      "posY": 71,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 10,
+      "posY": 121,
+      "genes": [
+        135740677,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 83,
+      "posY": 108,
+      "genes": [
+        146218247,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 22,
+      "posY": 55,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 125,
+      "posY": 83,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 101,
+      "posY": 84,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 77,
+      "posY": 104,
+      "genes": [
+        146218247,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 9,
+      "posY": 58,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 1,
+      "forwardX": -1,
+      "age": 1
+    },
+    {
+      "posX": 20,
+      "posY": 98,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 1,
+      "posY": 33,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 99,
+      "posY": 125,
+      "genes": [
+        135732485,
+        623017849
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 63,
+      "posY": 60,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 35,
+      "posY": 47,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 100,
+      "posY": 22,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": -1,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 112,
+      "posY": 16,
+      "genes": [
+        137829639,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 107,
+      "posY": 18,
+      "genes": [
+        135732485,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 70,
+      "posY": 19,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 103,
+      "posY": 83,
+      "genes": [
+        135732485,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 14,
+      "posY": 102,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 0,
+      "posY": 37,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 0,
+      "age": 1
+    },
+    {
+      "posX": 95,
+      "posY": 8,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 86,
+      "posY": 69,
+      "genes": [
+        406265093,
+        623016817
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 116,
+      "posY": 89,
+      "genes": [
+        146218247,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 112,
+      "posY": 57,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 18,
+      "posY": 105,
+      "genes": [
+        406265093,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 33,
+      "posY": 123,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 105,
+      "posY": 77,
+      "genes": [
+        135732485,
+        623016825
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 58,
+      "posY": 7,
+      "genes": [
+        137829639,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 58,
+      "posY": 121,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 33,
+      "posY": 18,
+      "genes": [
+        137870599,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    },
+    {
+      "posX": 31,
+      "posY": 25,
+      "genes": [
+        406265093,
+        627211129
+      ],
+      "forwardY": 0,
+      "forwardX": 1,
+      "age": 1
+    }
+  ],
+  "safeAreas": "0000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000001111111111111111111111111111111111111111111111111111111111111110",
+  "mutationRate": 2,
+  "steps": 1,
+  "population": 1000
+}
