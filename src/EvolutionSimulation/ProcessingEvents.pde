@@ -1,6 +1,6 @@
 void mousePressed() {
   //Return the genome of the creature closest to the mouse
-  Creature closestCreature = getClosestCreatureToMouse();
+  Creature closestCreature = getClosestCreatureToPosition(mouseX*worldSize.x/width, mouseY*worldSize.y/height);
   
   if (closestCreature != null) {
     print("\n--------------------------------\nCreature position: ");
@@ -24,6 +24,6 @@ void keyPressed() {
   } else if (keyCode == 76 /*the same as 'L'*/) {
     selectInput("Select the file to load from:", "selectedLoadFile");
   } else if (keyCode == 86) {
-    getClosestCreatureToMouse().brain.visualize();
+    getClosestCreatureToPosition(mouseX*worldSize.x/width, mouseY*worldSize.y/height).brain.visualize();
   }
 }

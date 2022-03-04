@@ -16,5 +16,6 @@ enum ActionNodeNames {
   MF, //Move forward
   MR, //Move right
   ML, //Move left
-  MRN //Move random
+  MRN, //Move random
+  KILL //Kill
 }

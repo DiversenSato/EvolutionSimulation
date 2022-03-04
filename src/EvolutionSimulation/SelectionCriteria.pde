@@ -5,11 +5,21 @@ class SelectionCriteria {
     safeArea = new boolean[worldSize.x][worldSize.y];
   }
   
+  //If the simulation is being loaded from a save,
+  //this constructor will run which can import
+  //the layout from a string of "1" and "0" where
+  //"1" is safe and "0" is not safe.
   SelectionCriteria(String data) {
+    //Set the size to the correct world size,
+    //however this will cause problems if
+    //this selection criteria is made before
+    //the world data is loaded.
     safeArea = new boolean[worldSize.x][worldSize.y];
     
     String[] dataBits = data.split("");
     
+    //Loops through tiles and compares it to the corresponding
+    //character in the save data.
     for (int y = 0; y < safeArea[0].length; y++) {
       for (int x = 0; x < safeArea.length; x++) {
         int i = x + y*safeArea.length;
@@ -19,6 +29,7 @@ class SelectionCriteria {
     }
   }
   
+  //Function for adding a rectangle of safe area.
   void addRectangle(int leftEdge, int topEdge, int w, int h) {
     for (int x = leftEdge; x < leftEdge + w && x < safeArea.length; x++) {
       for (int y = topEdge; y < topEdge + h && y < safeArea[0].length; y++) {
@@ -27,6 +38,7 @@ class SelectionCriteria {
     }
   }
   
+  //Function for adding a circle of safe area.
   void addCircle(int circleX, int circleY, int radius) {
     for (int y = 0; y < safeArea[0].length; y++) {
       for (int x = 0; x < safeArea.length; x++) {

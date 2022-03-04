@@ -114,6 +114,10 @@ void draw() {
     println("-------------------------\nGeneration: " + generations);
     ArrayList<Creature> selectedCreatures = new ArrayList<Creature>();
     for (Creature c: creatures) {
+      if (!c.isAlive) {
+        continue;
+      }
+      
       if (SC.isPointInSafeArea(c.position)) { //Add the creature if it meets the selection criteria
         selectedCreatures.add(c);
       }
@@ -184,16 +188,16 @@ void draw() {
 
 
 
-Creature getClosestCreatureToMouse() {
+Creature getClosestCreatureToPosition(int x, int y) {
   if (creatures.length <= 0) {
     return null;
   }
   
-  float closestDistance = sqrt(pow(mouseX/6 - creatures[0].position.x, 2) + pow(mouseY/6 - creatures[0].position.y, 2));
+  float closestDistance = sqrt(pow(x - creatures[0].position.x, 2) + pow(y - creatures[0].position.y, 2));
   Creature closestCreature = creatures[0];
   
   for (Creature c: creatures) {
-    float dist = sqrt(pow(mouseX/6 - c.position.x, 2) + pow(mouseY/6 - c.position.y, 2));
+    float dist = sqrt(pow(x - c.position.x, 2) + pow(y - c.position.y, 2));
     if (dist < closestDistance) {
       closestDistance = dist;
       closestCreature = c;

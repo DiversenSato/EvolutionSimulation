@@ -6,6 +6,7 @@ class Creature {
   
   color col = color(0);
   int age = 0;
+  boolean isAlive = true;
   
   float tolerance = 0.5;
   
@@ -58,6 +59,10 @@ class Creature {
   }
   
   void step() {
+    if (!isAlive) {
+      return;
+    }
+    
     setInputSensors();
     age++;
     
@@ -69,10 +74,21 @@ class Creature {
     float MRValue = brain.actionNodes[ActionNodeNames.MR.ordinal()].getValue();
     float MLValue = brain.actionNodes[ActionNodeNames.ML.ordinal()].getValue();
     float MRNValue = brain.actionNodes[ActionNodeNames.MRN.ordinal()].getValue();
+    float KILLValue = brain.actionNodes[ActionNodeNames.KILL.ordinal()].getValue();
     
     float highestValue = max(max(max(max(MNValue, MSValue, MEValue), MWValue, MFValue), MRValue, MLValue), MRNValue);
     
     boolean setForwardDirection = true;
+    
+    //Check if this creature should kill a creature in front of it. The long if statement is to avoid NullPointerExceptions
+    if (KILLValue > tolerance && position.x+forwardDirection.x >= 0 && position.x+forwardDirection.x < worldSize.x &&
+                                 position.y+forwardDirection.y >= 0 && position.y+forwardDirection.y < worldSize.y) {
+      if (isInhabited[position.x+forwardDirection.x][position.y+forwardDirection.y]) {
+        //A creature exists in front of this creature that needs to die. First get said creature, then kill it
+        Creature doomedCreature = getClosestCreatureToPosition(position.x+forwardDirection.x, position.y+forwardDirection.y);
+        doomedCreature.die();
+      }
+    }
     
     IVector newPosition = position.copy();
     if (highestValue > tolerance) {
@@ -168,7 +184,16 @@ class Creature {
     return object;
   }
   
+  void die() {
+    isAlive = false;
+    isInhabited[position.x][position.y] = false;
+  }
+  
   void show() {
+    if (!isAlive) {
+      return;
+    }
+    
     stroke(col);
     strokeWeight(width / worldSize.x);
     point((position.x+0.5) * width / worldSize.x, (position.y+0.5) * height / worldSize.y);
